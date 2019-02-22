@@ -1,5 +1,5 @@
 {
-  "name": "banter_api_server",
+  "name": "sindats-youtube-mp3",
   "version": "1.0.0",
   "description": "the API server running within the NodeJS runtime ",
   "main": "app.js",
@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "David Vondrovic",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sindat/youtubetomp3downloader"
+  },
+  "dependencies": {
+    "async": "^2.6.2",
+    "fluent-ffmpeg": "^2.1.2",
+    "progress-stream": "^2.0.0",
+    "sanitize-filename": "^1.6.1",
+    "ytdl-core": "^0.29.1"
+  },
+  "private": false
 }

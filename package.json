@@ -1,0 +1,11 @@
+{
+  "name": "banter_api_server",
+  "version": "1.0.0",
+  "description": "the API server running within the NodeJS runtime ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Vondrovic",
+  "license": "ISC"
+}

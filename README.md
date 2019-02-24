@@ -1,4 +1,4 @@
-# youtubetomp3downloader - the node package - ver 1.0.1
+# youtubetomp3downloader - the node package - ver 1.0.2
 
 
 Convert youtube videos to the mp3 format and download the tracks into your computer / phone.
@@ -12,3 +12,4 @@ This is included in the API by using npm install --save sindat-youtube-mp3, and 
 # Patch history
 
 1.0.1. - added express as a dependency
+1.0.2. - added pug as the view engine, jade is deprecated 

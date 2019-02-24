@@ -1,6 +1,6 @@
 {
   "name": "sindats-youtube-mp3",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "the API server running within the NodeJS runtime ",
   "main": "app.js",
   "scripts": {
@@ -19,6 +19,7 @@
     "fluent-ffmpeg": "^2.1.2",
     "morgan": "^1.9.1",
     "progress-stream": "^2.0.0",
+    "pug": "^2.0.3",
     "sanitize-filename": "^1.6.1",
     "ytdl-core": "^0.29.1"
   },

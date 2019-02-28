@@ -1,7 +1,7 @@
 {
   "name": "sindats-youtube-mp3",
-  "version": "1.0.2",
-  "description": "the API server running within the NodeJS runtime ",
+  "version": "1.0.3",
+  "description": "this version carries the base, untested version of the code",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

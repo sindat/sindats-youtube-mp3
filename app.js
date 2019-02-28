@@ -1,1 +1,1 @@
-module.exports = require('./lib/main_source_code');
+module.imports = require('./lib/sindatybt2mp3');

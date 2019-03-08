@@ -1,8 +1,8 @@
 {
   "name": "sindats-youtube-mp3",
-  "version": "1.0.3",
-  "description": "this version carries the base, untested version of the code",
-  "main": "app.js",
+  "version": "1.2.1",
+  "description": "fixed all errors, first functional version - downloads the mp3 and spits info",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -13,14 +13,13 @@
     "url": "https://github.com/sindat/youtubetomp3downloader"
   },
   "dependencies": {
-    "async": "^2.6.2",
     "errorhandler": "^1.5.0",
     "express": "^4.16.4",
     "fluent-ffmpeg": "^2.1.2",
     "morgan": "^1.9.1",
     "progress-stream": "^2.0.0",
     "pug": "^2.0.3",
-    "sanitize-filename": "^1.6.1",
+    "request": "^2.88.0",
     "ytdl-core": "^0.29.1"
   },
   "private": false

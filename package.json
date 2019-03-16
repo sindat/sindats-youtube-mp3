@@ -1,7 +1,7 @@
 {
   "name": "sindats-youtube-mp3",
-  "version": "1.2.1",
-  "description": "fixed all errors, first functional version - downloads the mp3 and spits info",
+  "version": "1.2.6",
+  "description": "fixed the callback issue",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

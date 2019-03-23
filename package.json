@@ -1,17 +1,35 @@
 {
-  "name": "sindats-youtube-mp3",
-  "version": "1.2.6",
-  "description": "fixed the callback issue",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "_from": "sindats-youtube-mp3",
+  "_id": "sindats-youtube-mp3@1.2.6",
+  "_inBundle": false,
+  "_integrity": "sha512-Kxv8BWl9AsNV+0TWEy0xY9bNszJCr67TV3irOfvXn9+JHqkPm4q0+hr+NG4noMnZsKgnPkq8HtvaayjEXu4oGA==",
+  "_location": "/sindats-youtube-mp3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sindats-youtube-mp3",
+    "name": "sindats-youtube-mp3",
+    "escapedName": "sindats-youtube-mp3",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
   },
-  "author": "David Vondrovic",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/sindat/youtubetomp3downloader"
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sindats-youtube-mp3/-/sindats-youtube-mp3-1.2.6.tgz",
+  "_shasum": "b5ee00aeeb3737fd2616719fac761f678e976920",
+  "_spec": "sindats-youtube-mp3",
+  "_where": "/home/sindat/SINDATYOUTUBE/API/youtubetomp3",
+  "author": {
+    "name": "David Vondrovic"
   },
+  "bugs": {
+    "url": "https://github.com/sindat/youtubetomp3downloader/issues"
+  },
+  "bundleDependencies": false,
   "dependencies": {
     "errorhandler": "^1.5.0",
     "express": "^4.16.4",
@@ -22,5 +40,19 @@
     "request": "^2.88.0",
     "ytdl-core": "^0.29.1"
   },
-  "private": false
+  "deprecated": false,
+  "description": "callback updates removed useless logging into the browser ",
+  "homepage": "https://github.com/sindat/youtubetomp3downloader#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sindats-youtube-mp3",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sindat/youtubetomp3downloader.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.2.7"
 }

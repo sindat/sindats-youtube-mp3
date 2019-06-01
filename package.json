@@ -31,17 +31,12 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "errorhandler": "^1.5.0",
-    "express": "^4.16.4",
     "fluent-ffmpeg": "^2.1.2",
-    "morgan": "^1.9.1",
-    "progress-stream": "^2.0.0",
-    "pug": "^2.0.3",
     "request": "^2.88.0",
     "ytdl-core": "^0.29.1"
   },
   "deprecated": false,
-  "description": "callback updates removed useless logging into the browser ",
+  "description": "revamp of dependencies, code trimming and added comments ",
   "homepage": "https://github.com/sindat/youtubetomp3downloader#readme",
   "license": "ISC",
   "main": "index.js",
@@ -54,5 +49,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.2.7"
+  "version": "1.2.8"
 }
